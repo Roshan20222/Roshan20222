@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@roshanp2831029" target="blank"><img src="https://img.shields.io/twitter/follow/@roshanp2831029?logo=twitter&style=for-the-badge" alt="@roshanp2831029" /></a> </p>
 
-- 📫 How to reach me **pandeyroshan2021@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
