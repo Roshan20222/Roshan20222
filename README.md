@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Roshan&fontSize=42&fontAlignY=32&desc=PhD%20Student%20|%20AI%20Researcher%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Roshan&fontSize=42&fontAlignY=32&desc=%20Student%20|%20AI%20Researcher%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=PhD+in+Computer+Science+%40+UC+Berkeley;AI%2FML+%7C+HCI+%7C+Intelligent+Systems;Building+Accessible+Technology+for+Everyone)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6495ED&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=+Computer+Science+%40;AI%2FML+%7C+HCI+%7C+Intelligent+Systems;Building+Accessible+Technology+for+Everyone)](https://git.io/typing-svg)
   
 </div>
 
