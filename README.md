@@ -20,8 +20,8 @@
 ```python
 class Roshan:
     def __init__(self):
-        self.education = "PhD in Computer Science (Expected: June 2029)"
-        self.university = "University of California, Berkeley"
+        self.education = "Bachelor's in Computer Science (Expected: 2026)"
+        self.university = "Tribhuvan University, Institute of Engineering"
         self.research = ["AI/ML", "Human-Computer Interaction", "Healthcare Tech"]
         self.interests = ["LLMs", "Intelligent Systems", "Accessible Technology"]
         self.background = "Institute of Engineering, Nepal"
@@ -33,7 +33,7 @@ class Roshan:
         return "Making technology accessible to everyone 🌍"
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="100%" style="max-width: 400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### 🔬 Research Interests
 - 🧠 **Artificial Intelligence & Machine Learning**
@@ -132,7 +132,7 @@ class Roshan:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan20222&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6495ED&line=6495ED&point=FFFFFF" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan20222&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6495ED&line=6495ED&point=FFFFFF" width="100%" alt="Activity Graph">
 </div>
 
 ---
